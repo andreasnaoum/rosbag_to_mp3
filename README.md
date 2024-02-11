@@ -22,3 +22,12 @@ This Python script extracts audio data from ROS bag files, specifically from mes
 
 ```bash
 python rosbag_to_mp3.py -source <bag_file_path> -topic <audio_topic_name> -output <output_mp3_file_path>
+```
+
+##  Contributing
+
+Feel free to contribute to the project by opening issues or submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License.
